@@ -1,15 +1,12 @@
-# Toaster used:
-	https://uk.russellhobbs.com/product/futura-2-slice-18780
-
-# One Slice Contains:
-	Fat(g)		- 0.64
-	Carbs(g)	- 8.53
-	Protein(g)	- 4.6
-	Calories	- 76
-
-
-# Toasted for:
-	46 seconds
- 
-# Heated at: 
-	140°C 
+# Installation Instructions:
+	download the repository
+	check to make sure you downloaded 8 eggs, a loaf of bread
+	run `rm ./eggs/shells` in your terminal
+	scramble the information contained in each egg file
+	
+	for each instance of "air" in the ./loaf/bread files, insert a part of one of the scrambled egg files
+	load the ./loaf/bread files into memory for 2 minutes each
+	after two minutes has passed, pull the bread files out of memory and write them back to disk as toast files
+	add one of the ./toppings/maple_syrup files to the beginning of the toast file
+	optionally you could also add some ./toppings/cinnamon files onto the toast file
+	
